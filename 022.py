@@ -1,0 +1,5 @@
+Seq1 = 'AGTTTATAG'
+print (Seq1[3:6])
+
+#AGTTTATAG
+#012345678
